@@ -1,23 +1,29 @@
-# **MAP-IESP**
-Disciplina: Métodos Avançados de Programação
-Instituição: Iesp Faculdades
-Curso: Sistemas para Internet
-Profa.: Drª. Alana Morais
+# Linguagem de Programação I
 
-Plano de Aula: Aluno Online
+## Iesp Faculdades
 
-Objetivo: Realizar uma introdução conceitual e prática sobre os aspectos fundamentais ao desenvolvimento de sistemas de software. Apresentar
-as principais técnicas utilizadas na construção de aplicações Orientadas a Objeto. Ao final da disciplina, o aluno deverá ser capaz
-de analisar, desenvolver e melhorar arquitetura de sistemas de software bem como selecionar as principais técnicas que podem ser
-utilizadas em modelos de sistemas de software.
+### Professora
 
-\#  | Conteúdo | Atividade
---- | --- | ---
-01 | Herança e Composição | Atividades de Fixação
-02 | Interface e Polimorfismo | Atividades de Fixação
-03 | Introdução a Padrões de Projeto | Leitura de Artigo
-04 | Padrões GRASO | Exercício
-05 | Padrões GRASO | Exercício
-06 | Padrões GRASO | Exercício
-07 | Padrões GRASO | Exercício
-...
+* Drª Alana Morais ([alanamm.prof@gmail.com](mailto:alanamm.prof@gmail.com))
+
+### Horários / Local
+
+* Horários:
+  - **Segundas (19.00 - 22.00)** - Lab 04
+
+## Comunicação
+
+Toda a comunicação será realizada usando via email.
+
+## Avaliações
+
+A nota final será computado através da média das avaliações:
+
+* Avaliação I (Prova Escrita 1)
+* Avaliação II (Projeto + Prova Escrita 2)
+
+* Reposição
+* Final
+
+
+
